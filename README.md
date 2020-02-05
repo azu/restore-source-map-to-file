@@ -25,8 +25,6 @@ See [Releases page](https://github.com/azu/restore-source-map-to-file/releases).
 
 ## Running tests
 
-Install devDependencies and Run `npm test`:
-
     npm test
 
 ## Contributing
