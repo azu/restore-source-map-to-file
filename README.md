@@ -11,14 +11,13 @@ Install with [npm](https://www.npmjs.com/):
 ## Usage
 
     Usage
-      $ restore-source-map-to-file [source-map-file] --out￿-dir [dir]
+      $ restore-source-map-to-file [source-map-file] --out-dir [dir]
  
     Options
-      ----out￿-dir Output dir
+      --out-dir Output dir
  
     Examples
       $ restore-source-map-to-file main.js.map --out-dir ./main-original
-
 
 ## Changelog
 
